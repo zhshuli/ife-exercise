@@ -4,7 +4,8 @@
 }
 
 img {
-    width: 120px;
+    width: 90px;
+    margin: 20px;
 }
 
 .left img {
@@ -26,15 +27,19 @@ div {
     width: 200px;
     height: auto;
     float: left;
+    background-color: #fff;
 }
 
 .right {
     width: 120px;
     height: auto;
     float: right;
+    background-color: #fff;
 }
 
 .center {
     margin: 0 180px 0 260px;
     height: auto;
+    background-color: #fff;
+    line-height: 30px;
 }
