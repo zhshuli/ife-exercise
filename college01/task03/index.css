@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 120px;
+}
+
+.left img {
+    float: left;
+}
+
+div {
+    padding: 20px;
+    border: 1px solid #999;
+}
+
+.father {
+    margin: 20px;
+    background-color: #eee;
+    overflow: auto;
+}
+
+.left {
+    width: 200px;
+    height: auto;
+    float: left;
+}
+
+.right {
+    width: 120px;
+    height: auto;
+    float: right;
+}
+
+.center {
+    margin: 0 180px 0 260px;
+    height: auto;
+}
