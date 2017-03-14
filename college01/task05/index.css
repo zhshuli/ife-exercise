@@ -148,7 +148,8 @@ table tfoot {
 }
 
 .sidebar h2 {
-    margin: 10px 0;
+    padding-left: 10px;
+    border-left: 3px #ccc solid;
 }
 
 .sidebar form {
